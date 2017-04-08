@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "mrd.shinse.jhipster.sample",
+      "nativeLanguage": "ja"
+    },
+    "jhipsterVersion": "4.2.0",
+    "baseName": "jhipsterSample",
+    "packageName": "mrd.shinse.jhipster.sample",
+    "packageFolder": "mrd/shinse/jhipster/sample",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "rememberMeKey": "2460361ff539c78e532813e2e1f65d6bb32ad39a",
+    "clientFramework": "angular2",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "ja",
+    "languages": [
+      "ja",
+      "zh-cn",
+      "en",
+      "ko"
+    ]
+  }
+}
